@@ -3,6 +3,11 @@
       padding: 60px 0;
     }
 
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
     .Login form a {
       margin-bottom: 15px;
       display: block;
